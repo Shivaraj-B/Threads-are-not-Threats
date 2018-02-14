@@ -1,4 +1,4 @@
-package com.threads.com.threads.threadPool;
+package com.threads.threadPool;
 
 
 import com.threads.utils.ThreadUtils;

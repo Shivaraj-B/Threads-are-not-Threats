@@ -1,4 +1,4 @@
-package com.threads.com.threads.threadPool;
+package com.threads.threadPool;
 
 
 import java.util.concurrent.ExecutorService;
