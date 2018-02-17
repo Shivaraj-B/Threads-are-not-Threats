@@ -2,7 +2,7 @@ package com.threads.ThreadSynchronization;
 
 public class TransactionHandler
 {
-    static com.threads.synchronization.BankAccount husbandAcc = new com.threads.synchronization.BankAccount();
+    static BankAccount husbandAcc = new BankAccount();
 
     public static void main(String args[])
     {
