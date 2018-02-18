@@ -6,6 +6,7 @@ import java.util.concurrent.Callable;
 
 /*
     A callable implementation, simulating the job of preparing the chats and returning back the order placed.
+    Callabale as opposed to runnable can return values and throw exception.
  */
 public class ChatCounter implements Callable
 {
